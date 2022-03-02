@@ -3,7 +3,7 @@ package tree;
 
 import java.util.Stack;
 
-public class IsBST {
+public class Code03_IsBST {
 
     /**
      * 使用中序遍历，判断是否升序

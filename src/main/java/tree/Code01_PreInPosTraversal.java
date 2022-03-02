@@ -1,10 +1,8 @@
 package tree;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
-public class PreInPosTraversal {
+public class Code01_PreInPosTraversal {
     /**
      *  recursive method of preorder traversal
      */

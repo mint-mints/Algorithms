@@ -3,7 +3,7 @@ package tree;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class IsCBT {
+public class Code04_IsCBT {
 
     public static boolean isCompleteBinaryTree(TreeNode head) {
         if (head == null) {

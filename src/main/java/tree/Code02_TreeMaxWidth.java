@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class TreeMaxWidth {
+public class Code02_TreeMaxWidth {
 
     /**
      * 宽度遍历

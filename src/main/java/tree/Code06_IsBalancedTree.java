@@ -1,6 +1,6 @@
 package tree;
 
-public class IsBalancedTree {
+public class Code06_IsBalancedTree {
 
     public static boolean isBalancedTree(TreeNode head) {
         if (head == null) {

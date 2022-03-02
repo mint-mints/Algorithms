@@ -1,6 +1,6 @@
 package tree;
 
-public class IsFBT {
+public class Code05_IsFBT {
 
     public static boolean isFullBinaryTree(TreeNode head) {
         if (head == null) {
