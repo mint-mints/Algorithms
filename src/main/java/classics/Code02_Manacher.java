@@ -1,4 +1,4 @@
-package other;
+package classics;
 
 public class Code02_Manacher {
 
